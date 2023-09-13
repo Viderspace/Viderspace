@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jonatan</h1>
-<h3 align="center">I'm studying Computer Science at the Hebrew University of Jerusalem and minoring in Game Development and Design at Bezalel Academy of Arts and Design.</h3>
+<h1 align="center">Hi there 👋, I'm Jonatan</h1>
+<h4 align="center">I'm studying Computer Science at the Hebrew University of Jerusalem and minoring in Game Development and Design at Bezalel Academy of Arts and Design.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/viderspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viderspace" height="30" width="40" /></a>
 <a href="https://instagram.com/jonatan_vider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonatan_vider" height="30" width="40" /></a>
 </p>
