@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan</h1>
-<h3 align="center">A passionate developer from Tel Aviv</h3>
+<h3 align="center">I'm studying Computer Science at the Hebrew University of Jerusalem and minoring in Game Development and Design at Bezalel Academy of Arts and Design.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
